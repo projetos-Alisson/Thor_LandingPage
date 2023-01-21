@@ -1,0 +1,12 @@
+.navbar-estilizado{
+   background-image: linear-gradient(to bottom, black 10%, transparent); /*sombra de CIMA para BAIXO */
+   font-size: 110%;
+   min-height: 110px;
+   padding-top: 17px;
+}
+
+.navbar-estilizado a{
+    margin-right: 30px;
+    color: white;
+    font-weight: bold;
+}
